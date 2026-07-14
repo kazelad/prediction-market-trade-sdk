@@ -1,4 +1,4 @@
-**The [Financial-grade-api](https://github.com/kazelad/financial-grade-api) for prediction markets.** Hosted unified API for prediction-market data and supported hosted trading — Polymarket, Opinion, and Limitless writes today. Open-source SDKs and a self-host option for venue-native credentials included.
+**The [Finance-Trade-SDK](https://github.com/kazelad/financial-grade-api) for prediction markets.** Hosted unified API for prediction-market data and supported hosted trading — Polymarket, Opinion, and Limitless writes today. Open-source SDKs and a self-host option for venue-native credentials included.
 
 
 <img width="3840" height="2160" alt="plot" src="https://github.com/user-attachments/assets/ed77d244-c95f-4fe0-a7a7-89af713c053f" />
